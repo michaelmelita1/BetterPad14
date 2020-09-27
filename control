@@ -1,0 +1,11 @@
+Package: com.michaelmelita1.betterpad14
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Michael Melita
+Depends: mobilesubstrate, firmware (>= 14.0), cy+model.ipad (= 5.1) | cy+model.ipad (= 5.2) | cy+model.ipad (= 5.3) | cy+model.ipad (= 5.4)
+Section: Tweaks
+Description: Enhance your iPad Air 2/iPad Mini 4
+Author: Michael Melita
+Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.betterpad14
+Name: BetterPad14
+Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.betterpad14/info.json
